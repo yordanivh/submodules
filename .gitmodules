@@ -1,3 +1,3 @@
 [submodule "example"]
-	path = example
+	path = example2
 	url = git@github.com/yordanivh/submodule
